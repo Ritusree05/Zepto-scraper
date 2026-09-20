@@ -1,0 +1,236 @@
+[
+  {
+    "heading": "Get instant ₹75 cashback with BHIM app",
+    "coupon_code": "TRYBHIM",
+    "issuer": "BHIM",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "2a80f85d-cf0b-4c1f-a6e5-55a600b59ce3",
+    "state": "Locked",
+    "description": "Valid on orders above ₹99",
+    "terms": [
+      "- Valid only for users who are new to the BHIM app and have never made a transaction using BHIM app.\n- Cashback will be credited instantly to the user’s linked savings/current bank account through BHIM App.\n- The offer is valid only once per user, per registered mobile number and bank account.\n- Users must have an active bank account linked on the BHIM App\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get upto ₹50 instant cashback with BHIM App",
+    "coupon_code": "ZEPBHIM",
+    "issuer": "BHIM",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "0011e3a3-52bf-44e9-8bc3-2e2f9909e020",
+    "state": "Locked",
+    "description": "Valid on orders above ₹99",
+    "terms": [
+      "- The minimum order value to avail the offer is ₹99/-\n- Valid only on Payment made by BHIM App\n- Cashback will be credited instantly to the user’s linked bank account through BHIM App.\n- The offer is valid only once per user, per registered mobile number and bank account.\n- Use code ZEPBHIM on the Zepto offer page and complete the payment via BHIM UPI.\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get upto ₹75 instant cashback with BHIM App",
+    "coupon_code": "BHIMAPP",
+    "issuer": "BHIM",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "0ab18f07-a838-4b55-8717-078379f98dd9",
+    "state": "Locked",
+    "description": "Valid on orders above ₹99",
+    "terms": [
+      "- Valid only on Payment made by BHIM App\n- The minimum order value to avail the offer is ₹99/-\n- ⁠The offer is valid only once per user, per registered mobile number and bank account\n- Cashback eligibility requires completing the applicable number of successful transactions within 2 days of the first transaction on the BHIM App based on milestone\n- Cashback will be credited instantly to the user’s linked bank account through BHIM App\n- The applicable transaction milestone will be communicated to eligible users on the BHIM App\n- ⁠Use code BHIMAPP on the Zepto offer page and complete the payment via BHIM App\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get Upto ₹50 Cashback on using Amazon Pay",
+    "coupon_code": "AMZPAY50",
+    "issuer": "Amazon Pay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "b51f55f9-321b-4bcd-a51b-1783dbcd7fcb",
+    "state": "Locked",
+    "description": "Valid on orders above ₹99",
+    "terms": [
+      "- Valid only for users who have linked their Amazon account and made a payment using Amazon Pay\n\n- Valid for India Mobile Verified Users only on Zepto orders of minimum value ₹99\n\n- The cashback will only be issued once the customer scratches the issued card by going to the rewards page on Amazon Pay *(https://www.amazon.in/h/rewards*)\n\n- The scratch card is available until the end of the month\n\n- The cashback will be credited as Amazon Pay balance within 24 hours\n\n- This offer is valid once per user\n\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get upto ₹25 Cashback with Amazon Pay UPI",
+    "coupon_code": "UPIAMZ",
+    "issuer": "Amazon Pay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "3fed1756-d0f4-41f3-802c-6788eda68a70",
+    "state": "Locked",
+    "description": "Valid on orders above ₹99",
+    "terms": [
+      "- Valid only for users who have linked their Amazon account and completed a payment using Amazon Pay UPI\n- Valid once per user per offer period\n- Cashback will be credited as Amazon Pay balance within 24 hours of the eligible transaction\n- Users will receive an email notification once the cashback is credited\n- Cashback details can also be checked at: www.amazon.in\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Flat ₹100 off with Visa Platinum Credit Cards",
+    "coupon_code": "VISAPLATINUMCC",
+    "issuer": "Visa Platinum",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "97be0aa5-9a30-4c4d-bc06-7fb95dbb555a",
+    "state": "Locked",
+    "description": "Valid on orders above ₹1250",
+    "terms": [
+      "- Offer applicable once per user per month on Visa Platinum Credit Cards.\n- Valid only on the Zepto App in cities where Zepto operates.\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n- Standard terms and conditions apply."
+    ]
+  },
+  {
+    "heading": "Flat ₹75 off with Visa Platinum Debit Cards.",
+    "coupon_code": "VISAPLATINUMDC",
+    "issuer": "Visa Platinum",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "916a8bdb-15c8-4e14-a75b-f730cb532dd4",
+    "state": "Locked",
+    "description": "Valid on orders above ₹500",
+    "terms": [
+      "- Offer applicable once per user per month on Platinum Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply."
+    ]
+  },
+  {
+    "heading": "Flat ₹150 or ₹15 cashback with Jupiter UPI",
+    "coupon_code": "JUPITER",
+    "issuer": "Jupiter",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "5c3ba8be-aca2-49e4-aea4-021b86717785",
+    "state": "Locked",
+    "description": "Earn cashback in the form of Jewels on the Jupiter App on orders above ₹199",
+    "terms": [
+      "- Offer valid only for users who create a Jupiter account and complete their first\nsuccessful transaction via Jupiter UPI on Zepto\n\n- This offer can be availed in conjunction with any ongoing offers or promotions\nrunning on Zepto.\n\n- Cashback will be credited in the form of Jupiter Jewels, which can be viewed and\nredeemed by logging into the Jupiter app\n\n- Jupiter Jewels can be redeemed for a wide range of products and services within\nthe Jupiter app, including Flat Cashback, bill payments, Digi Gold, and more.\n\n- Offer valid once per user unless specified otherwise.\n\n- Jupiter reserves the right to modify, extend, or withdraw the offer at its sole\ndiscretion without prior notice.\n\n- This offer is exclusively for new users who join the Jupiter platform through this\nspecific promotion. Existing users are not eligible.\n\n- Terms and conditions of the Jupiter Jewels program apply."
+    ]
+  },
+  {
+    "heading": "Get upto ₹100 Cashback using Paytm UPI",
+    "coupon_code": "ZEPAYTM",
+    "issuer": "Paytm",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "3db55735-99e1-4018-ad5e-e2dc94d74fdf",
+    "state": "Locked",
+    "description": "Valid on orders above ₹299. T&C apply",
+    "terms": [
+      "- Users receive ₹50 cashback on their first-ever Paytm transaction.\n- To qualify, both new and existing Paytm users must make a transaction of ₹299 or more using Paytm UPI during the offer period.\n- Eligible users will receive a scratch card in the Paytm app, valid for 2 days from the date of issue.\n- Cashback amount will be credited to the user's UPI-linked bank account within 24 hours of scratching the card.\n- This offer can be availed only once per user during the campaign period.\n- Standard Paytm terms and conditions apply"
+    ]
+  },
+  {
+    "heading": "Get Flat ₹10 cashback on payment via MobiKwik wallet",
+    "coupon_code": "MBKWALLET",
+    "issuer": "MobiKwik",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "b98ba84f-89ec-4b02-8dcf-fc8c8b15fcbd",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- The minimum order value to avail the cashback is ₹399/-\n- Use code MBKWALLET on Zepto coupon page to avail the cashback\n- Offer valid once per user from 1st – 30th Sep 2026.\n- Cashback can be claimed through a scratch card on the MobiKwik app in the rewards section\n- Scratch card will be valid for 7 days\n- Users will get a flat cashback of Rs 10\n- Cashback shall be credited to KYC users instantly\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get upto ₹50 Cashback on using Amazon Pay Balance",
+    "coupon_code": "AMAZONPAY",
+    "issuer": "Amazon Pay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "99f50cb0-fb18-4135-a536-ff0fbf6a962e",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- Valid only for users who have linked their Amazon account and made a payment using Amazon Pay Balance\n- Applicable only to India mobile-verified users\n- Valid on Zepto orders with a minimum transaction value of ₹399\n- Cashback will be issued only after the user scratches the issued scratch card on the Amazon Pay Rewards page: https://www.amazon.in/h/rewards\n- The scratch card will be available until the end of the month\n- Cashback will be credited as Amazon Pay balance within 24 hours of scratching the card\n- This offer is valid once per user\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get upto ₹100 cashback with Amazon Pay Later",
+    "coupon_code": "ZEPAPL",
+    "issuer": "Amazon Pay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "97b04e33-89ef-4e8c-805b-38fc5b11e976",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- Valid only for users who have linked their Amazon account and made a payment using Amazon Pay Later\n- Applicable only to India mobile-verified users\n- Valid on Zepto orders with a minimum transaction value of ₹399\n- Cashback will be issued only after the user scratches the issued scratch card on the Amazon Pay Rewards page: https://www.amazon.in/h/rewards\n- The scratch card will be available until the end of the month\n- Cashback will be credited as Amazon Pay balance within 24 hours of scratching the card\n- This offer is valid once per user per offer period\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Get flat ₹50 Cashback on RuPay Credit Card Payments via BHIM",
+    "coupon_code": "BHIMRUPAY",
+    "issuer": "RuPay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "d11a2c08-060f-4b95-b7ef-a298e2cc19ac",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- Valid only on first RuPay Credit Cards payments linked to UPI via BHIM App\n- Offer can be availed only once per user during the offer period\n- Minimum order value to avail the offer is INR 399/-\n- Cashback will be credited directly to the user’s primary bank account linked with the BHIM App\n- Additional Terms & Conditions may apply"
+    ]
+  },
+  {
+    "heading": "Flat ₹10 instant discount via MobiKwik UPI",
+    "coupon_code": "MBKUPI",
+    "issuer": "MobiKwik",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "f8fa6864-b86d-4384-80e1-a3993d523549",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- The minimum order value to avail the offer is ₹399/-\n- Valid once per user on the UPI transaction via MobiKwik\n- Use code MBKUPI on Zepto offer page and complete the payment via MobiKwik UPI.\n- Offer valid from 7th – 30th Sep 2026\n- Other T&C may apply"
+    ]
+  },
+  {
+    "heading": "Flat ₹20 cashback with Bajaj Pay UPI",
+    "coupon_code": "ZEPBAJAJ",
+    "issuer": "Bajaj Pay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "8c87954c-dd02-43bb-964b-ac363f8d0900",
+    "state": "Locked",
+    "description": "Valid on orders above ₹399",
+    "terms": [
+      "- Flat ₹20/- cashback on placing a successful order on Zepto\n- Minimum order value ₹399/-\n- Offer applicable on payment via Bajaj Pay UPI, Lite & Rupay CC linked to Bajaj Pay UPI\n- Valid once per user in the offer period\n- Offer valid till 30th September 2026.\n- Cashback will be credited to users in Bajaj Pay Wallet within 7 working days, user needs to reveal the scratch card under the rewards section in the Bajaj Finance App\n- For select customers & additional terms/conditions apply"
+    ]
+  },
+  {
+    "heading": "Get ₹50 off with Novio Credit Card",
+    "coupon_code": "NOVIO50",
+    "issuer": "Novio",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "1dc117ab-37f3-43d2-90c0-2b1598d7b23e",
+    "state": "Locked",
+    "description": "Valid on orders above ₹499",
+    "terms": [
+      "- Applicable 3 times per card during the offer period\n- Total offer benefit limited to Rs. 150 in a month\n- Exclusive for SBM Novio RuPay Credit Card, DCB Novio RuPay Credit Card, IOB Novio RuPay credit cards & YES Bank credit cards customers\n- Other T&Cs may apply"
+    ]
+  },
+  {
+    "heading": "Flat ₹75 off with Visa Classic Debit Cards.",
+    "coupon_code": "VISACLASSICDC",
+    "issuer": "Visa Classic",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "54e5d3c7-001a-42e4-9bdb-476eb0d6df87",
+    "state": "Locked",
+    "description": "Valid on orders above ₹500",
+    "terms": [
+      "- Offer applicable once per user per month on Classic Debit Cards.\n\n- Valid only on the Zepto App in cities where Zepto operates.\n\n- Zepto reserves the right to modify or revoke the offer and its terms at any time without prior notice.\n\n- Standard terms and conditions apply."
+    ]
+  },
+  {
+    "heading": "Get upto ₹100 cashback on RuPay Credit Card Payments via Paytm App",
+    "coupon_code": "ZEPRUPAYPAYTM",
+    "issuer": "RuPay",
+    "is_bank": false,
+    "coupon_type": "BANK_OFFER",
+    "coupon_id": "f3843c75-2c92-4379-a561-2550b6acc4cb",
+    "state": "Locked",
+    "description": "Valid on orders above ₹600",
+    "terms": [
+      "- Valid only on RuPay Credit Cards payemnts linked to UPI via Paytm App\n- Offer can be availed only once per user during the offer period\n- Minimum order value to avail the offer is ₹600/-\n- Additional Terms & Conditions may apply"
+    ]
+  }
+]

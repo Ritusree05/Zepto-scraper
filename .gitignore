@@ -1,0 +1,10 @@
+# secrets and live session data
+.env
+auth_state.json
+captured_request.json
+raw_offers.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
