@@ -103,5 +103,5 @@ flowchart LR
 | `auth_state.json` | Stored browser cookies and local storage tokens. | ✅ Yes |
 | `raw_offers.json` | Raw unmodified API response containing all coupons. | ✅ Yes |
 | `captured_request.json` | Request metadata, endpoint URL, and masked payload. | ✅ Yes |
-| `non_bank_offers.json` | Filtered list of card network, wallet, and fintech offers. | ❌ No |
+| `non_bank_offers.json` | Filtered list of card network, wallet, and fintech offers. | ✅ Yes |
 
