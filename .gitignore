@@ -3,6 +3,7 @@
 auth_state.json
 captured_request.json
 raw_offers.json
+non_bank_offers.json
 
 # python
 __pycache__/
